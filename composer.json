@@ -1,0 +1,15 @@
+{
+    "name": "zsder/php-mvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "thogio8",
+            "email": "thomas.gioana@gmail.com"
+        }
+    ],
+    "require": {}
+}
